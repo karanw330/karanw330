@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m @karanw330<br>🔭 I’m currently working on projects based on Flask<br>🤝 I’m looking for help with open source contribution <br>🌱 I’m currently learning python<br>📫 How to reach me- karanwadhwani2005@gmail.com<br>
+👋 Hi, I’m @karanw330<br>🔭 I’m currently working on projects based on Django<br>🤝 I’m looking for help with open source contribution <br>🌱 I’m currently learning python<br>📫 How to reach me- karanwadhwani2005@gmail.com<br>
 
 
 ## 🌐 Socials:
