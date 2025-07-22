@@ -6,14 +6,16 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-wadhwani-b55073274) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,selenium,c,js)](https://skillicons.dev)
+
+## Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=karanw330&theme=dark)](https://git.io/streak-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karanw330&show_icons=true&hide_border=true&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=karanw330&icon=0&color=0)](https://visitcount.itsvg.in)
 
