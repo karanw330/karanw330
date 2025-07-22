@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m @karanw330<br>🔭 I’m currently exploring Django, C++ and DSA.<br>💼 Working on- TradeSnap: Online crypto trading simulator<br>📫 How to reach me- karanwadhwani2005@gmail.com<br>
+👋 Hi, I’m @karanw330<br>🔭 Currently exploring and learning Django, C++ and DSA.<br>💼 Working on- TradeSnap: Online crypto trading simulator<br>📫 How to reach me- karanwadhwani2005@gmail.com<br>
 
 
 ## 🌐 Socials:
