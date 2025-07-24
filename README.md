@@ -9,9 +9,6 @@
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,selenium,c,js)](https://skillicons.dev)
 
-## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=karanw330&theme=tokyonight)](https://git.io/streak-stats)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
