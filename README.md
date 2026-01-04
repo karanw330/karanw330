@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-wadhwani-b55073274) 
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapiselenium,c,cpp,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,selenium,c,cpp,js)](https://skillicons.dev)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
