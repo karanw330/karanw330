@@ -1,4 +1,4 @@
-<img src="https://karanw330.github.io/github-svg/me.svg" width="100%">
+ <img src="https://karanw330.github.io/github-svg/me.svg" width="100%">
 <!-- # 💫 About Me:
 👋 Hi, I’m @karanw330<br>🔭 Currently exploring and learning FastAPI, C++ and DSA.<br>💼 Working on- CrypSim: Online crypto trading simulator<br>📫 How to reach me- karanwadhwani2005@gmail.com <br> -->
 
