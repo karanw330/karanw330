@@ -9,9 +9,9 @@
 <!-- ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,selenium,c,cpp,js)](https://skillicons.dev) -->
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+-->
 
 <img src="https://karanw330.github.io/github-svg/wave.svg" width="100%" />
