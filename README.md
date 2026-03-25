@@ -4,7 +4,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-wadhwani-b55073274) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-wadhwani-b55073274) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanwadhwani2005@gmail.com)
 
 <!-- ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,selenium,c,cpp,js)](https://skillicons.dev) -->
